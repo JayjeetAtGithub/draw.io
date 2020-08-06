@@ -31,11 +31,6 @@ We used 2 machines, one acting the ceph client and one acting as the OSD backend
 
 ### 1. 4 OSD on a single NVMe device
 
-![osd_throughput_benchmarks](https://user-images.githubusercontent.com/33978990/89562049-06f8f000-d837-11ea-8f0f-d00a27d741a7.png)
-
-This graph shows the `ceph tell` througput of each of the 4 OSDs. 
-So, this is like the theoritical limit of the OSDs performance.
-
 #### 1 thread
 ![rados_avg_bw_bench_thread_1](https://user-images.githubusercontent.com/33978990/89557300-35bf9800-d830-11ea-8ed4-48f95296558d.png)
 
