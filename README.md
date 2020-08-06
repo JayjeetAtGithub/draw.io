@@ -27,7 +27,7 @@ The goal of this benchmark is to run the rados bench as aggressively as possible
 
 We used 2 machines, one acting the ceph client and one acting as the OSD backend. I would call them client and osd. So the osd machine has a 256GB NVMe block device.
 
-## Case 1:
+## Case I:
 
 ### 1. 4 OSD on a single NVMe device
 
