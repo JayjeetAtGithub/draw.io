@@ -53,6 +53,14 @@ There is no significant improvement in going from 8 to 10 threads.
 The maximum througput given by the OSDs combined is around the networks limit of (~950 MB/s). 
 So, maybe we can say the network has become the bottleneck.
 
+
+<img height="300" width="350" src="https://user-images.githubusercontent.com/33978990/89591632-5277c200-d868-11ea-8cbc-0884e09f8590.png"/>
+<img height="300" width="350" src="https://user-images.githubusercontent.com/33978990/89591634-53105880-d868-11ea-9459-fdbad8595c3a.png"/>
+
+These graphs depict how with increasing number of threads we were able to increase the bandwidth till the networked bottlenecked and their was no more improvement in the througput.
+
+
+
 ## Case II:
 
 A single OSD on a single NVMe
