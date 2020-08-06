@@ -32,22 +32,22 @@ We used 2 machines, one acting the ceph client and one acting as the OSD backend
 ### 1. 4 OSD on a single NVMe device
 
 #### 1 thread
-![rados_avg_bw_bench_thread_1](https://user-images.githubusercontent.com/33978990/89557300-35bf9800-d830-11ea-8ed4-48f95296558d.png)
+<img height="300" width="350" src="https://user-images.githubusercontent.com/33978990/89557300-35bf9800-d830-11ea-8ed4-48f95296558d.png"/>
 
 As seen from the Graph, a 1 thread couldn't fully utilize the entire througput of the 4 OSDs and thus gives only the `ceph tell` limit, i-e `350 MB/s`.
 
 #### 4 threads
-![rados_avg_bw_bench_thread_4](https://user-images.githubusercontent.com/33978990/89557605-af578600-d830-11ea-9709-1a1d27af7e2e.png)
+<img height="300" width="350" src="https://user-images.githubusercontent.com/33978990/89557605-af578600-d830-11ea-9709-1a1d27af7e2e.png"/>
 
 With 4 threads working concurrently, the throughput goes almost double as that with 1 thread as expected. Our client is able to read more amount of data / second.
 
 #### 8 threads (using all the threads available)
-![rados_avg_bw_bench_thread_8](https://user-images.githubusercontent.com/33978990/89557838-0fe6c300-d831-11ea-8069-04ca61ddb383.png)
+<img height="300" width="350" src="https://user-images.githubusercontent.com/33978990/89557838-0fe6c300-d831-11ea-8069-04ca61ddb383.png"/>
 
 Througput continues to improve.
 
 #### 10 (using few threads than available) respectively
-![rados_avg_bw_bench_thread_10](https://user-images.githubusercontent.com/33978990/89563799-a7501400-d839-11ea-8355-7f49389a6fe9.png)
+<img height="300" width="350" src="https://user-images.githubusercontent.com/33978990/89563799-a7501400-d839-11ea-8355-7f49389a6fe9.png"/>
 
 There is no significant improvement in going from 8 to 10 threads. 
 The maximum througput given by the OSDs combined is around the networks limit of (~950 MB/s). 
@@ -58,7 +58,7 @@ So, maybe we can say the network has become the bottleneck.
 A single OSD on a single NVMe
 
 #### 10 threads (all the threads available)
-![rados_avg_bw_bench_thread_10](https://user-images.githubusercontent.com/33978990/89565891-d916aa00-d83c-11ea-8ce2-4bcaaaff643e.png)
+<img height="300" width="350" src="https://user-images.githubusercontent.com/33978990/89565891-d916aa00-d83c-11ea-8ce2-4bcaaaff643e.png"/>
 
 Its almost half of what given by 4 OSDs on a single NVMe. So, the througput increases with no of OSDs and bottlenecks the network eventually.
 
