@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T15:29:34.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ZgG77g1bo8maNI0EV90h" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T15:30:56.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Ugo6EjTEK28QKx8Q8xDf" version="13.6.6" type="github">
   <diagram id="hxspNUqaLA8-96vzYpsR" name="Page-1">
     <mxGraphModel dx="946" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="cFWVLwaCDAjj0P3LfrQX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="487.5" y="340" width="245" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cFWVLwaCDAjj0P3LfrQX-2" value="RadosFragment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cFWVLwaCDAjj0P3LfrQX-2" value="&lt;font face=&quot;Courier New&quot;&gt;RadosFragment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cFWVLwaCDAjj0P3LfrQX-4" value="OSD.3" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
