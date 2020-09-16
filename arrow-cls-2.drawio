@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T14:26:47.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="tRIyoBc9fzRczNrowgf-" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T14:27:08.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="zeG_758eh6CdckQV03TS" version="13.6.10" type="github">
   <diagram id="15WnuG5AwdH6QXES573Q" name="Page-1">
     <mxGraphModel dx="946" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="0yRWITcgKIYgQ3G4mCgw-5" value="RadosFragment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRWITcgKIYgQ3G4mCgw-6" value="RadosDataset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
