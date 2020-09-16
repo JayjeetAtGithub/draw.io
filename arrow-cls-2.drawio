@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T14:47:57.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="78nz-qSmM-YkOMOZDIuM" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T14:49:55.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="nlPuUT2R9hb21Xr_AW2f" version="13.6.10" type="github">
   <diagram id="15WnuG5AwdH6QXES573Q" name="Page-1">
     <mxGraphModel dx="946" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="0yRWITcgKIYgQ3G4mCgw-51" value="&lt;span&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;InMemoryDataset&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRWITcgKIYgQ3G4mCgw-60" value="Compute Ops Applied" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="195" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
