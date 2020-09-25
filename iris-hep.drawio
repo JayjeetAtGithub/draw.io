@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T18:38:19.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cGXGs_--WUsi5wfL_hbh" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T18:39:04.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="omlRaL_J0XNqFHel9IXs" version="13.7.1" type="github">
   <diagram id="dcP60B0NoK9WWwO6IKdQ" name="Page-1">
     <mxGraphModel dx="788" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="7dyDRv-mh5p-rkIBtsI9-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Our Solution&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="-340" width="165" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7dyDRv-mh5p-rkIBtsI9-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1. Popper workflows for every step. From building Ceph to running benchmarks and plotting observations.&lt;br&gt;2. Coalesce running of hundred of build and deploy commands and ad-hoc scripts in a couple of popper run commands.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7dyDRv-mh5p-rkIBtsI9-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;1. Popper workflows for every step. From building Ceph to running benchmarks and plotting observations.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Coalesce running of hundred of Ceph, Kubernetes, and other commands along with ad-hoc scripts in a couple of popper run commands.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="-360" width="380" height="300" as="geometry" />
         </mxCell>
       </root>
